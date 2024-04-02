@@ -1,0 +1,10 @@
+sasview_parameter_values
+model_name,cylinder
+scale,True,9.5811e-05,0.00033269,0.0,inf,()
+background,False,0.18,,-inf,inf,()
+sld,True,11.67,4.8149,-inf,inf,()
+sld_solvent,False,8.9,,-inf,inf,()
+radius,True,2132.8,102.62,0.0,inf,()
+length,True,782.93,204.27,0.0,inf,()
+radius.width,True,0.24059,0.025966,0.0,1.0,80,8,gaussian
+length.width,True,1,0.21236,0,1,80,8,gaussian

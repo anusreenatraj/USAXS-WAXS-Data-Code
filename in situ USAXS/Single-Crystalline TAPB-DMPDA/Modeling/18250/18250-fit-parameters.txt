@@ -1,0 +1,16 @@
+sasview_parameter_values
+model_name,spherecyl
+scale,True,1.0632e-05,6.2111e-05,0.0,inf,()
+background,False,0.001,,-inf,inf,()
+A_scale,True,1.3886,9.9832,-inf,inf,()
+A_sld,True,12.521,16.324,-inf,inf,()
+A_sld_solvent,False,8.9,,-inf,inf,()
+A_radius,True,114.67,177.45,0.0,inf,()
+B_scale,True,2.3441,13.714,-inf,inf,()
+B_sld,True,14.166,6.2446,-inf,inf,()
+B_sld_solvent,False,8.9,,-inf,inf,()
+B_radius,True,2301.2,244.18,0.0,inf,()
+B_length,True,1587.6,448.94,0.0,inf,()
+A_radius.width,True,0.67004,0.69335,0.0,1.0,80,8,lognormal
+B_radius.width,True,0.25837,0.0359,0.0,1.0,80,8,lognormal
+B_length.width,True,0.57437,0.24691,0.0,1.0,80,8,lognormal

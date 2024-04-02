@@ -1,0 +1,3 @@
+scale	scale_err	background	A_scale	A_scale_err	A_sld	A_sld_err	A_sld_solvent	A_radius	A_radius_err	B_scale	B_scale_err	B_sld	B_sld_err	B_sld_solvent	B_radius	B_radius_err	B_length	B_length_err	A_radius.width	A_radius.width_err	A_radius.nsigmas	A_radius.npts	B_radius.width	B_radius.width_err	B_radius.nsigmas	B_radius.npts	B_length.width	B_length.width_err	B_length.nsigmas	B_length.npts	
+1.4867e-05	0.00010485	0.001	1.3063	9.9293	12.183	15.662	8.9	117.92	164.12	1.9288	13.026	13.915	5.5098	8.9	2160.8	310.13	1677.2	446.63	0.68555	0.64369	1.0	0.0	0.29902	0.039589	1.0	0.0	0.59377	0.27005	1.0	0.0	
+True	False	True	True	False	True	True	True	False	True	True	True	True	True	
